@@ -1,0 +1,70 @@
+[
+    {
+        "source": "cd",
+        "title": "ini cd 1",
+        "subject": null,
+        "upc": null,
+        "artist": null
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": null,
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": null,
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": "ini subject test",
+        "upc": null,
+        "issbn": "1345-123",
+        "authors": "Febri",
+        "dds_number": 123412
+    },
+    {
+        "source": "book",
+        "title": "ini book 1 test",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": null,
+        "dds_number": 123412
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnn test",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 1",
+        "issue": "-"
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnbc",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 2",
+        "issue": "-"
+    },
+    {
+        "source": "dvd",
+        "title": "Test Dvd 1",
+        "subject": "ini subject dvd",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "Comedy"
+    }
+]
