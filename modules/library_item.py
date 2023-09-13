@@ -3,4 +3,5 @@ class LibraryItem():
         self.title = title
         self.upc = upc
         self.subject = subject
-    
+
+        
