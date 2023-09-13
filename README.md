@@ -1,7 +1,7 @@
 # digital-skola-project-1
 
 ## Objective
-Creating Simple Librarian Search using python Object Oriented Programming
+Creating a Simple Librarian Search System Using Python Object-Oriented Programming
 
 ## Prerequisites
 - Python ≥ 3.8 https://www.python.org/downloads/
