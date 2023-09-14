@@ -3,11 +3,10 @@
 ## Objective
 Creating a Simple Librarian Search System Using Python Object-Oriented Programming
 
-## Prerequisites
+## Tools
 - Python ≥ 3.8 https://www.python.org/downloads/
 - Visual Studio Code https://code.visualstudio.com/download
 - Git https://git-scm.com/downloads
-- Github https://github.com/
 - SourceTree https://www.sourcetreeapp.com/
 
 ## Class Diagram
